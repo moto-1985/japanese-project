@@ -1,4 +1,5 @@
 {
   "editor.foldingImportsByDefault": true,
-  "javascript.preferences.importModuleSpecifier": "non-relative"
+  "javascript.preferences.importModuleSpecifier": "non-relative",
+  "editor.quickSuggestions": { "strings": true }
 }
